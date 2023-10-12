@@ -1,7 +1,6 @@
 # 👨🏻‍💻 woowacourse-projects
 
 <p align="center">
-
     <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="40%" />
 </p>
 
