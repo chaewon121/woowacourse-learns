@@ -115,6 +115,36 @@
 
 <br/>
 
+## 🐣 Level 4 : 유지보수
+### 기간
+
+- 2023.09.13 ~ 2023.11.20
+
+### 학습 목표
+
+- 레벨4에서 런칭한 프로젝트를 실제 사용 가능하게 운영하며, 유지보수 및 기능 개발을 함께 하는 경험
+- 이미 발명된 바퀴를 직접 만들어 보며 기술에 대한 이해도 향상
+- 레거시 프로젝트를 리팩터링하는 경험을 통해 서비스를 안정적으로 운영하면서 레거시 코드를 리팩터링할 수 있는 역량 향상
+
+  
+### 진행 미션
+
+|       Project        |                          Repository                          |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     톰캣 구현하기 / step1, 2     | [jwp-dashboard-http
+/develop](https://github.com/chaewon121/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/360) |
+|     톰캣 구현하기 / step3, 4    | [jwp-dashboard-http
+/develop2](https://github.com/chaewon121/jwp-dashboard-http/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/485) |
+|     springMVC 구현 / step1     | [jwp-dashboard-mvc/develop3](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/399) |
+|     springMVC 구현 / step2     | [jwp-dashboard-mvc/develop4](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/534) |
+|     springMVC 구현 / step3     | [jwp-dashboard-mvc/develop4](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/613) |
+|   Jdbc라이브러리 구현 / step1   | [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/325) |
+|   Jdbc라이브러리 구현 / step2   | [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/467) |
+| Jdbc라이브러리 구현 / step3, 4| [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/545) |
+
+
+<br/>
+
 
 ## 🖋 Writing : 글쓰기 코스
 
