@@ -131,10 +131,8 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     톰캣 구현하기 / step1, 2     | [jwp-dashboard-http
-/develop](https://github.com/chaewon121/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/360) |
-|     톰캣 구현하기 / step3, 4    | [jwp-dashboard-http
-/develop2](https://github.com/chaewon121/jwp-dashboard-http/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/485) |
+|     톰캣 구현하기 / step1, 2     | [jwp-dashboard-http/develop](https://github.com/chaewon121/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/360) |
+|     톰캣 구현하기 / step3, 4    | [jwp-dashboard-http/develop2](https://github.com/chaewon121/jwp-dashboard-http/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/485) |
 |     springMVC 구현 / step1     | [jwp-dashboard-mvc/develop3](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/399) |
 |     springMVC 구현 / step2     | [jwp-dashboard-mvc/develop4](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/534) |
 |     springMVC 구현 / step3     | [jwp-dashboard-mvc/develop4](https://github.com/chaewon121/jwp-dashboard-mvc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/613) |
