@@ -139,6 +139,9 @@
 |   Jdbc라이브러리 구현 / step1   | [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/325) |
 |   Jdbc라이브러리 구현 / step2   | [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/467) |
 | Jdbc라이브러리 구현 / step3, 4| [jwp-dashboard-jdbc](https://github.com/chaewon121/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/545) |
+|   레거시코드 리팩터링 / step2   | [jwp-refactoring](https://github.com/chaewon121/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/635) |
+|   레거시코드 리팩터링 / step3   | [jwp-refactoring](https://github.com/chaewon121/jwp-refactoring/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/688) |
+| 레거시코드 리팩터링 / step4    | [jwp-refactoring](https://github.com/chaewon121/jwp-refactoring/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/815) |
 
 
 <br/>
